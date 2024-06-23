@@ -17,7 +17,10 @@
         "Data\\keybindings.json"
     ],
     "shortcuts": [
-        "BG3ModManager.exe"
+        [
+            "BG3ModManager.exe",
+            "BG3ModManager"
+        ]
     ],
     "checkver": "github",
     "autoupdate": {
