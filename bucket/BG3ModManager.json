@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/LaughingLeader/BG3ModManager/releases/download/$version/BG3ModManager_Latest.zip",
+                "url": "https://github.com/LaughingLeader/BG3ModManager/releases/download/$version/BG3ModManager_Latest.zip"
             }
         }
     }
