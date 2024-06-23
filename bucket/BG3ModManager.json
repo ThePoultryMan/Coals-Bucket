@@ -10,13 +10,15 @@
         },
     },
     "bin": "BG3ModManager.exe",
-    "persists": [
+    "persist": [
         "BG3ModManager.exe.config",
         "Data\\settings.json",
         "Data\\nexusmodsdata.json",
         "Data\\keybindings.json"
     ],
-    "shortcuts": "BG3ModManager.exe",
+    "shortcuts": [
+        "BG3ModManager.exe"
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
